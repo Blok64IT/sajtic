@@ -1,0 +1,44 @@
+2020-06-06T20:29:20+00:00 CRITICAL syntax error, unexpected 'assets' (T_STRING) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 7
+
+2020-06-06T20:29:58+00:00 CRITICAL syntax error, unexpected 'assets' (T_STRING) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 7
+
+2020-06-06T20:30:34+00:00 CRITICAL syntax error, unexpected 'assets' (T_STRING) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 7
+
+2020-06-06T20:31:10+00:00 CRITICAL syntax error, unexpected 'assets' (T_STRING) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 13
+
+2020-06-06T20:31:42+00:00 CRITICAL syntax error, unexpected '" rel="' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 18
+
+2020-06-06T20:39:44+00:00 CRITICAL syntax error, unexpected '/', expecting end of file in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:40:16+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:40:56+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:41:03+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:42:12+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:42:54+00:00 CRITICAL syntax error, unexpected '/', expecting end of file in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:43:14+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:56:02+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:56:36+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:59:24+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:59:28+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T20:59:31+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T21:00:21+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T21:00:55+00:00 CRITICAL syntax error, unexpected '.1' (T_DNUMBER) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T21:26:43+00:00 CRITICAL syntax error, unexpected 'C' (T_STRING), expecting ',' or ';' in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 324
+
+2020-06-06T21:42:40+00:00 CRITICAL syntax error, unexpected 'get_template_directory_uri' (T_STRING) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 329
+
+2020-06-06T21:43:50+00:00 CRITICAL syntax error, unexpected 'get_template_directory_uri' (T_STRING) in C:\wamp64\www\sajtic\wp-content\themes\Root\index.php on line 329
+
