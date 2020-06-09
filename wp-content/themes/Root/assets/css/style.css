@@ -1920,3 +1920,125 @@ a#bs1 {
  }
 
  }
+
+ /*woocommerce css*/
+
+ div#content html{
+    margin:0!important;
+}
+div#content body
+{
+ text-align: left;
+}
+div#content #sidebar_right
+{
+border-left: 1px solid black;
+}
+div#content .header-logo {
+    text-align: center;
+}
+div#content .header-logo img {
+    height: 45px;
+}
+div#content.jumbotron h1, .jumbotron .h1 {
+    font-size: 35px;
+    color: #aaa;
+    text-align: center;
+}
+
+div#main .title
+{
+font-size: 11pt;
+font-family: verdana;
+font-weight: bold;
+}
+#main {
+    margin-bottom: 50px;
+}
+a {
+    color: #34393e;
+    text-decoration: none;
+}
+ .woocommerce ul.products li.product .price {
+    color: #77a464;
+    display: block;
+    font-weight: 400;
+    margin-bottom: .5em;
+    font-size: 1.2em;
+}
+ .woocommerce ul.products li.product .woocommerce-loop-product__title{
+    font-size:1.5em;
+    }
+ .woocommerce nav.woocommerce-pagination ul{
+    border:none;
+    }
+    .woocommerce .woocommerce-pagination ul.page-numbers li, .woocommerce-page .woocommerce-pagination ul.page-numbers li {
+    display: inline-block;
+    margin: 5px;
+}
+ .woocommerce nav.woocommerce-pagination ul li span.current {
+    background: #337ab7;
+    color: #fff;
+    padding: 12px;
+}
+ .woocommerce-pagination ul.page-numbers a.page-numbers {
+    color: #444;
+    padding: 12px;
+    margin: 0px;
+    background: #ddd;
+}
+#footer {
+    width: 100%;
+    border-top: 1px #a2a2a2 solid;
+    text-align: center;
+    padding: 40px;
+    background: #eee;
+}
+#footer h1 {
+    color: #aaa;
+    font-size: 30px;
+    font-weight: 500;
+}
+.woocommerce div#tab-additional_information {
+    display: none;
+}
+ul.woocommerce-error {
+    display: none;
+}
+.woocommerce .product_meta {
+    display: none !important;
+}
+
+.woocommerce li#tab-title-additional_information {
+    display: none !important;
+}
+
+.woocommerce .quantity {
+    display: none !important;
+}
+
+.woocommerce label {
+    font-family: 'Nunito';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 20px 0 20px 0;
+    color: #09102B;
+}
+
+.woocommerce a.reset_variations {
+    display: none;
+}
+
+.woocommerce button.single_add_to_cart_button.button.alt {
+    height: 45px;
+    width: 150px;
+    font-family: 'Nunito';
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    background: #41CD52;
+		border-color: transparent;
+}

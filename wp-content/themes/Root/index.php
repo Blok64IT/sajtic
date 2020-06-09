@@ -23,6 +23,8 @@
 
       <?php the_field( 'subscribe' ); ?>
 
+      <?php the_field( 'woo_product_test' ); ?>
+
 
 
 <?php get_footer(); ?>

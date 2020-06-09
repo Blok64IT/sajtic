@@ -1,0 +1,12 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.woocommerce-tabs.wc-tabs-wrapper {
+    display: none !important;
+}
+
+.woocommerce .product_meta {
+    display: none !important;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

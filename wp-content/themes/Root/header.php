@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="<?php echo  get_template_directory_uri()?>/assets/css/magnific-popup.css">
     <link rel="stylesheet" href="<?php echo  get_template_directory_uri()?>/assets/css/ionicons.min.css"> <!-- Resource style -->
     <link href="<?php get_template_directory_uri()?>wp-content/themes/Root/assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
+      <link href="<?php get_template_directory_uri()?>wp-content/themes/Root/style.css" rel="stylesheet" type="text/css" media="all" />
   </head>
     <div class="wrapper">
       <nav class="navbar navbar-default navbar-fixed-top">
