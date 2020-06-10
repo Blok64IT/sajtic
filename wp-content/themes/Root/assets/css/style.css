@@ -2040,5 +2040,15 @@ ul.woocommerce-error {
     text-transform: capitalize;
     letter-spacing: 1px;
     background: #41CD52;
-		border-color: transparent;
+		border-color: transparent !important;
+		margin-top: 5%;
+}
+
+span.woocommerce-Price-amount.amount {
+
+  padding:10px;
+}
+
+td.value {
+    display: block;
 }

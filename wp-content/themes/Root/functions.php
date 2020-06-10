@@ -18,13 +18,15 @@ function woocommerce_custom_product_add_to_cart_text() {
     return __( 'Buy Now', 'woocommerce' );
 }
 
-add_action( 'woocommerce_single_product_summary', 'add_to_cart_button_woocommerce', 20 );
-function add_to_cart_button_woocommerce() {
-    echo '
-    Free Worldwide Shipping
-    30-day Return Policy
-';
-}
 
 
-?>
+
+
+
+/*function woocommerce_single_variation() {
+    echo '<p><span><i class="ion-android-checkbox-blank"> </i></span><br>
+<span> <i class="ion-android-checkbox-blank"></i></span><br>
+<span><i class="ion-android-checkbox-blank"></i></span></p>';
+  }
+
+?>*/
